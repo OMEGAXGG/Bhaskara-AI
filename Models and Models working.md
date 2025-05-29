@@ -33,6 +33,7 @@ For Stable Diffusion (via ctransformers or llama-cpp-python variant that support
 
 ✅ 3. Organize Model Files
       Place models in a structured folder like this:
+      
           BhaskaraAI/
           ├── models/
           │   ├── mistral/

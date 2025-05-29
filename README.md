@@ -17,8 +17,10 @@ Multi-chat management: save, resume, rename & delete past conversations
 Bhaskara AI delivers a seamless, fully offline multimodal experience — no external servers required.
 
 For More information check this:- 
-[Major Project Bhaskara AI Report.pdf](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Major%20Project%20Bhaskara%20AI%20Report.pdf)
+
+  [Major Project Bhaskara AI Report.pdf](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Major%20Project%20Bhaskara%20AI%20Report.pdf)
 
 For Models details check this:-
-  https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Models%20and%20Models%20working.md
+
+  [models](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Models%20and%20Models%20working.md)
 ![Image](https://github.com/user-attachments/assets/a01e1523-71b0-478d-90b3-c1c4a48994c9)

@@ -23,6 +23,7 @@ To make your Bhaskara AI application work properly with both Mistral-7B-Instruct
 Use the appropriate wheel for your system: CPU-only or GPU (CUDA, ROCm, etc.).
 
 For Stable Diffusion (via ctransformers or llama-cpp-python variant that supports GGUF image models — or load via diffusers with compatible model):
+
 ✅If using Stable Diffusion GGUF
     
       pip install ctransformers  # Experimental GGUF SD support (limited)

@@ -1,0 +1,10 @@
+```python
+class Dog:
+    def __init__(self, name, breed):
+        self.name = name
+        self.breed = breed
+
+my_dog = Dog("Fido", "Labrador Retriever")
+print(f"I have a dog named {my_dog.name} which is a {my_dog.breed}.")
+```
+This code creates a `Dog` class with `name` and `breed` attributes. An instance of the class, `my_dog`, is then created with the name "Fido" and the breed "Labrador Retriever". A message is printed stating the name and breed of the dog.

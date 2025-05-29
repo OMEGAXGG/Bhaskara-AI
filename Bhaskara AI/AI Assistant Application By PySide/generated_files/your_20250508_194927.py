@@ -1,0 +1,1 @@
+Your explanation and code example are clear and accurate. The code demonstrates the use of a struct to define a custom data type with named fields, and the use of a function to perform a calculation on instances of that struct. Well done!

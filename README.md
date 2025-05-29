@@ -22,5 +22,7 @@ For More information check this:-
 
 For Models details check this:-
 
-  [models](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Models%20and%20Models%20working.md)
+  [Models](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Models%20and%20Models%20working.md)
+
+  
 ![Image](https://github.com/user-attachments/assets/a01e1523-71b0-478d-90b3-c1c4a48994c9)

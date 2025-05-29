@@ -1,8 +1,10 @@
 Here are the Models we use in this project:-
 
-Mistral 7B Instruct- huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF
+Mistral 7B Instruct- 
+[huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf)
 
-Stable Diffusion- huggingface.co/second-state/stable-diffusion-v1-5-GGUF/blob/main/stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf
+Stable Diffusion- 
+[huggingface.co/second-state/stable-diffusion-v1-5-GGUF/blob/main/stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf](https://huggingface.co/second-state/stable-diffusion-v1-5-GGUF/blob/main/stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf)
 
 To make your Bhaskara AI application work properly with both Mistral-7B-Instruct-v0.2-GGUF (for LLM) and stable-diffusion-v1-5-pruned-emaonly-Q8_0.gguf (for image generation) inside a Python virtual environment, follow these steps to structure and set up the system:
 

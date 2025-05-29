@@ -18,7 +18,7 @@ Bhaskara AI delivers a seamless, fully offline multimodal experience — no exte
 
 For More information check this:- 
 
-  [Major Project Bhaskara AI Report.pdf](https://github.com/OMEGAXGG/Bhaskara-AI/blob/main/Major%20Project%20Bhaskara%20AI%20Report.pdf)
+  ![BHASKARA AI](https://github.com/user-attachments/assets/d01240ce-214f-4cc5-a84c-731e750731f8)
 
 For Models details check this:-
 

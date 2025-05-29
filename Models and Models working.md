@@ -15,15 +15,19 @@ To make your Bhaskara AI application work properly with both Mistral-7B-Instruct
 
 ✅ 2. Install Required Libraries
     Core Dependencies:
-      pip install PySide6 numpy opencv-python pillow
-    For LLM (Mistral-7B via llama-cpp-python):
-      pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/  # Use CPU or GPU variant
-     Use the appropriate wheel for your system: CPU-only or GPU (CUDA, ROCm, etc.).
+    
+            pip install PySide6 numpy opencv-python pillow
+  ✅ For LLM (Mistral-7B via llama-cpp-python):
+          
+            pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/  # Use CPU or GPU variant
+Use the appropriate wheel for your system: CPU-only or GPU (CUDA, ROCm, etc.).
 
 For Stable Diffusion (via ctransformers or llama-cpp-python variant that supports GGUF image models — or load via diffusers with compatible model):
-    If using Stable Diffusion GGUF
+✅If using Stable Diffusion GGUF
+    
       pip install ctransformers  # Experimental GGUF SD support (limited)
-    If using the Hugging Face Diffusers library:
+✅If using the Hugging Face Diffusers library:
+
       pip install torch torchvision diffusers transformers accelerate
 
 

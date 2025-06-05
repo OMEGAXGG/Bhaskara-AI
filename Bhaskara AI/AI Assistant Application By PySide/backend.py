@@ -50,8 +50,8 @@ if platform.system() == "Windows":
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # API Keys
-WEATHER_API_KEY = "cd8429b1889e82b46c0acf60bade9bab"
-NEWSDATA_API_KEY = "pub_7872413b8706de243b20106b3a7c9ccf95ae8"
+WEATHER_API_KEY = "WEATHER API Key"
+NEWSDATA_API_KEY = "NEWSDATA API Key"
 
 # Initialize LLM
 llm = Llama(
